@@ -21,7 +21,7 @@ Enter the time quantum: 5
 Enter the execution time for each process:
 10 15 8
 ```
-##Output
+Output
 ```bash
 Process completion order:
 A 5
