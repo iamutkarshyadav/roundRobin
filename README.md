@@ -15,3 +15,19 @@ This program implements the Round Robin CPU scheduling algorithm using a circula
 ## Test Case
 
 **Input:**
+``` bash
+Enter the number of processes: 3
+Enter the time quantum: 5
+Enter the execution time for each process:
+10 15 8
+```
+##Output
+```bash
+Process completion order:
+A 5
+B 10
+C 15
+A 20
+B 25
+C 28
+```
